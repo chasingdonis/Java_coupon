@@ -3,7 +3,7 @@ body {
 }
 
 .main {
-    margin: 2px;
+    margin: 10px;
     height: 415px;
 }
 
@@ -26,10 +26,10 @@ body {
     position: fixed;
     background-color: #f6485f;
     border-radius: 10px;
-  	left: 365px;
+  	left: 376px;
   	height: 220px;
   	width: 230px;
-	top: 188px;
+	top: 197px;
     padding: 10px;
     color: #F0EFEF;
     font-size: 0.9em;
