@@ -1,0 +1,56 @@
+body {
+    font: 16px/26px Helvetica, Helvetica Neue, Arial;
+}
+
+.main {
+    margin: 2px;
+    height: 415px;
+}
+
+.header {
+    position: relative;
+    background-color: #c93042;
+    width: 640px;
+    height: 150px;
+    padding: 5px;
+    font-size: 1.8em;
+    color: #fff;
+    font-family: serif;
+}
+
+.img {
+     width: 649px;
+}
+
+#ticket {
+    position: fixed;
+    background-color: #f6485f;
+    border-radius: 10px;
+  	left: 365px;
+  	height: 220px;
+  	width: 230px;
+	top: 188px;
+    padding: 10px;
+    color: #F0EFEF;
+    font-size: 0.9em;
+    line-height: 120%;
+	z-index: 1;
+}
+
+#ticket2 {
+    position: fixed;
+    background-color: #ffc5c1;
+    border-radius: 15px;
+  	left: 410px;
+  	height: 60px;
+  	width: 150px;
+	top: 350px;
+    padding: 2px;
+    line-height: 150%;
+    color: #673037;
+    font-family: serif;
+    background-image: url(a.jpg);
+    background-position: right; 
+	background-repeat: no-repeat;
+	z-index: 2;
+}
