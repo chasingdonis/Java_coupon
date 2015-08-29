@@ -33,20 +33,19 @@ body {
     padding: 10px;
     color: #F0EFEF;
     font-size: 0.9em;
-    line-height: 120%;
+    line-height: 130%;
 	z-index: 1;
 }
 
 #ticket2 {
-    position: fixed;
     background-color: #ffc5c1;
     border-radius: 15px;
   	left: 410px;
-  	height: 60px;
+  	height: 55px;
   	width: 150px;
 	top: 350px;
-    padding: 2px;
-    line-height: 150%;
+    padding: 0px 2px;
+    line-height: 180%;
     color: #673037;
     font-family: serif;
     background-image: url(a.jpg);
